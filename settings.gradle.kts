@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TugasReminder"
+rootProject.name = "Task Reminder App"
 include(":app")
  
